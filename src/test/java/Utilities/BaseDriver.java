@@ -1,3 +1,5 @@
+package Utilities;
+
 import java.time.Duration;
 import java.util.logging.Level;
 import java.util.logging.Logger;
